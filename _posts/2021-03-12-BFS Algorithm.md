@@ -1,5 +1,0 @@
----
-title: BFS
-tags: Algorithm
----
-
